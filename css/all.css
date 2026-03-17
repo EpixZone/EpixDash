@@ -3419,8 +3419,9 @@ body:after {
 .welcome .site-epixpost { background: linear-gradient(35deg, #6B2D8E, #A855C7) }
 .welcome .site-epixmail { background: linear-gradient(35deg, #2A8A9E, #6DD5ED) }
 .welcome .site-epixsites { background: linear-gradient(35deg, #3D1F7E, #8B5FBF) }
-.welcome .site-epixwiki { background: linear-gradient(35deg, #B83A0E, #E8622B) }
+.welcome .site-epixwiki { background: linear-gradient(35deg, #8B6914, #C9A020) }
 .welcome .site-vrfdebugger { background: linear-gradient(35deg, #1A5C3A, #2E9B5E) }
+.welcome .site-explorer { background: linear-gradient(35deg, #1A3D5C, #2E7B9B) }
 .welcome .site.coming-soon { opacity: 0.7; cursor: default }
 
 .welcome .site:hover {

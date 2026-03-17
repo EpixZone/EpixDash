@@ -575,6 +575,7 @@ class FeedList {
         ]),
         utilityExpanded ? h("div.utility-sites", [
           this.renderDiscoverSite("site-xid", "epix1xauthduuyn63k6kj54jzgp4l8nnjlhrsyaku8c", "xID", "Decentralized identity & DNS"),
+          this.renderDiscoverSite("site-explorer", "epix1epxrwflutk4j2saxuy84wvv52tdepuep8yqcqk", "Explorer", "Decentralized Epix blockchain explorer"),
           this.renderDiscoverSite("site-vrfdebugger", "epix1k2332529z7kvtneswpure2ewakzrynm6uakrtu", "VRF Debugger", "Decentralized VRF beacon debugger")
         ]) : null
       ])

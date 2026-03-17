@@ -9,13 +9,17 @@
    "sha512": "e67014a69caa38c58575f333619243c9ebb3c98d462f0b4823ff5ed3d2cfdba3",
    "size": 1077
   },
+  "README.md": {
+   "sha512": "caa7e66c5172106f9184639f140e9dcdc41dd34304676a7414b404e612faf001",
+   "size": 2645
+  },
   "chartjs/chart.bundle.min.js": {
    "sha512": "f8b84bec9157a76d7fa620998264edf84d7efe94ce472f6c3c60268346d4081a",
    "size": 208221
   },
   "css/all.css": {
-   "sha512": "fbd6fd1e25c15a97ce7dfe8c937105c9e5d24e9fde13cc7736f3815c5c7d47c7",
-   "size": 242812
+   "sha512": "c2a876f3c35d2af4d794790d6286967d2f4f8d4daf1e6d63ceb6a9ed28ed75be",
+   "size": 242893
   },
   "img/loading-circle.gif": {
    "sha512": "339baf1bccb9b80ae29c2493e73b40cf0588c96fc095954b475dea0538aaa929",
@@ -74,8 +78,8 @@
    "size": 9929
   },
   "js/FeedList.js": {
-   "sha512": "70f19c7d26ab094d20dff12a716a64ab854773431a9bd6c134145890c82c8e22",
-   "size": 23531
+   "sha512": "d59071d43c84d5e593991088a256280130c12d303516cceb7b8da892f0b9f059",
+   "size": 23684
   },
   "js/FilesResult.js": {
    "sha512": "05bd9d699e2767a7378b607e9bd96753f2cd5b998c22dd59dde3ffce625ec385",
@@ -260,10 +264,10 @@
  },
  "ignore": "(js/all\\.js|\\.git)",
  "inner_path": "content.json",
- "modified": 1773632954,
+ "modified": 1773775790,
  "postmessage_nonce_security": true,
  "signers_sign": "GzDAK33cGtqcui0MibSu9pXLKGGn0aFtufH0GhOlQ77JH0pmwH+DoqQm2YlDHgrNNCthR0XVbVxpLTC73aRjMi8=",
- "signs": {"epix1dashuu6pvsut7aw9dx44f543mv7xt9zlydsj9t": "G8EqxB+Pj2n1X+USXq9Qp0T0T+aug2yAPGr7cbOz3hL9dC7qvDHF4dqPgRLdtlQpciXv7ymVATwI0QOi/4+Ek+U="},
+ "signs": {"epix1dashuu6pvsut7aw9dx44f543mv7xt9zlydsj9t": "G51JUHW5iNRYYWD44KHha+r/oyRdqfl3lsTwqZv7KwAubG0HjcxWV8SRCzgK7Y8dAJYqPvn9yUAmZEAXQgiOp5g="},
  "signs_required": 1,
  "title": "Dashboard"
 }
